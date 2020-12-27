@@ -6,9 +6,9 @@
 
  ### A student and web-developer
  
- - 🌱 I’m currently learning **JS tools (Node, React)** and **mongodb(NOSQL)**
- - 🤝 I'm available for new connections and projects
- - 🚀 Always finding for new knowledges and experiences
+ - 🌱 I’m currently learning **JS tools (Node, React)** and **mongodb(NOSQL)**.
+ - 🤝 I'm available for new connections and projects.
+ - 🚀 Always finding for new knowledges and experiences.
 
 ### Language and Tools
 <ul style="display: flex; list-style: none;" >    
