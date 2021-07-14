@@ -1,20 +1,20 @@
-## Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Gabriel.
+## Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Gabriel
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gabrieldev2&theme=vue-dark&show_icons=true)
+<img src="https://www.flaticon.com/svg/static/icons/svg/479/479026.svg" align="right" width=150 /><br>
 
-<img src="https://www.flaticon.com/svg/static/icons/svg/1006/1006363.svg" width="200" align="right">
+I’m currently studying to be a **Full Stack Javascript Developer**.
+Currently studying the about new concepts to improve my knowledge. Everything that I am learning, i am implementing in my work like a full stack developer.
 
- ### A student and web-developer
+### Web Development: <br>
+#### Front-end
+<img height="26" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> &nbsp;
+<img height="26" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> &nbsp;
+<img height="26" alt="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> &nbsp;
+<img height="26" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> &nbsp;
 
-- 🌱 I’m currently learning **JavaScript**
- - 🤝 I'm available for new connections and projects.
- - 🚀 Always finding for new knowledges and experiences.
+#### Back-end
+<img height="26" alt="NodeJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> &nbsp;
+<img height="26" alt="Typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> &nbsp;
 
-### Language and Tools
-<ul style="display: flex; list-style: none;" >    
- <img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> &nbsp;
- <img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> &nbsp;
- <img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"> &nbsp;
- <img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> &nbsp;
- <img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"> &nbsp;
-</ul>
+### Other Languages: <br>
+<img height="26" alt="Golang" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"> &nbsp;
