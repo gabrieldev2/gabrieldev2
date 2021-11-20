@@ -27,8 +27,8 @@ Currently studying the about new concepts to improve my knowledge. Everything th
 
 You can find and get touch with me on these accounts!
 
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/gabrieldev2) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/instagram.jpg" alt="instagram logo" width="24">](https://www.instagram.com/gabrieldev2/)
-|---|---|
+| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/gabrieldev2)
+|---
 
 ---
 From: [gabrieldev2](https://github.com/gabrieldev2)
